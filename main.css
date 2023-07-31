@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  table {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #333;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #333;
+  }
+  
+  a.fruit-link {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  a.fruit-link:hover {
+    text-decoration: underline;
+  }
+  
+  #fruit-details {
+    display: none;
+    margin-top: 20px;
+    border: 1px solid #333;
+    padding: 10px;
+  }
